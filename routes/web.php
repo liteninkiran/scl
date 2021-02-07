@@ -17,6 +17,8 @@ use Illuminate\Support\Facades\Route;
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-Route::get('/', [App\Http\Controllers\PublicController::class, 'index'])->name('public');
-Route::get('/test', [App\Http\Controllers\PublicController::class, 'test'])->name('public.test');
 
+Route::get('/', function ()
+{
+    return view('public');
+});
