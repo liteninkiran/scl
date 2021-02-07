@@ -95,11 +95,13 @@
         color: white;
         margin-top: 0.5rem;
         margin-bottom: 0.5rem;
+        font-weight: normal;
     }
 
     .brand h1 span
     {
         color: crimson;
+        font-weight: bolder;
     }
 
     /* Header section */
