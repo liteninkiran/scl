@@ -39,7 +39,7 @@
     p
     {
         color: black;
-        font-size: 1.4rem;
+        font-size: 1.6rem;
         margin-top: 5px;
         line-height: 2.5rem;
         font-weight: 300;
@@ -62,7 +62,8 @@
         color: crimson;
     }
 
-    .overview-top p span
+    .overview-top p span,
+    .overview-bottom p span
     {
         color: crimson;
         font-weight: bold;
@@ -354,10 +355,28 @@
         padding: 100px 0;
     }
 
-    #overview .overview-top
+    #overview .overview-top h1
+    {
+        margin-top: 70px;
+    }
+
+    #overview p
+    {
+        margin: 20px;
+    }
+
+    #overview .overview-top,
+    #overview .overview-bottom
     {
         max-width: 700px;
         margin: 0 auto;
+    }
+
+    #overview .overview-bottom .final
+    {
+        text-align: center;
+        margin-top: 50px;
+        font-weight: bold;
     }
 
     #overview .overview-item
@@ -381,13 +400,14 @@
         margin-right: 20px;
     }
 
-    #overview .overview-bottom
+    #overview .overview-middle
     {
         display: flex;
         align-items: center;
         justify-content: center;
         flex-wrap: wrap;
         margin-top: 50px;
+        margin-bottom: 50px;
     }
 
     #overview .overview-item::after
@@ -403,7 +423,7 @@
         z-index: -1;
     }
 
-    #overview .overview-bottom .icon
+    #overview .overview-middle .icon
     {
         height: 80px;
         width: 80px;
@@ -691,7 +711,7 @@
         /* End Home */
 
         /* Overview Section */
-        #overview .overview-bottom .overview-item
+        #overview .overview-middle .overview-item
         {
             flex-basis: 45%;
             margin: 2.5%;
@@ -844,7 +864,7 @@
         }
         /* End header */
 
-        #overview .overview-bottom .overview-item
+        #overview .overview-middle .overview-item
         {
             flex-basis: 22%;
             margin: 1.5%;
