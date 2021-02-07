@@ -133,8 +133,14 @@
                     <h1 class="section-title"><span>C</span>alibration</h1>
                     <p>This website does not contain glossy pictures of Nuclear Submarines or Space Stations, but simply factual information. Most companies appreciate the possible repercussion costs of not having instrumentation calibrated. It is vital therefore that the cost of calibration - an expense with no perceived return - is not simply paying for a Certificate of Calibration. We at <span>Southern Calibration Laboratories</span> believe that quality is <i>paramount</i> and that the time taken to read the following could well save you a lot of time and money in the future:</p>
                     <ul>
-                        <li>UKAS Accredited</li>
-                        <li>Test results, instruments used and uncertainties provided as standard</li>
+                        <li>We hold <a href="https://www.ukas.com/wp-content/uploads/schedule_uploads/00001/0080Calibration-Multiple.pdf" target="_blank">UKAS Certification</a>, giving you piece of mind about our high standards</li>
+                        <!-- <li>Full test results, instruments used and uncertainties are all provided as standard</li> -->
+                        <li>We provide the following as standard:</li>
+                        <ul class="sub-list">
+                            <li>Detailed test results</li>
+                            <li>Instruments used</li>
+                            <li>Uncertainties</li>
+                        </ul>
                         <li>We test the <strong>full range</strong> of a unit's measuring capabilities, recording exact results to the unit's <strong>maximum resolution</strong></li>
                         <li>Calibration measurements are routinely audited in accordance with internal policies</li>
                     </ul>
@@ -157,8 +163,7 @@
                     <h1 class="section-title"><span>S</span>ervices</h1>
                     <p>Our high operating standards are supported by UKAS Accreditation in both Electrical / Electronic and Dimensional / Mechanical providing a level of competence and technical expertise of the highest degree. We are dedicated in providing a total quality service. This is supported by registration of BS EN ISO9001 & BS EN ISO/IEC 17025. Our services include:</p>
                     <ul>
-                        <li>UKAS certification</li>
-                        <li>Certification traceable to national standards</li>
+                        <li><a href="https://www.ukas.com/wp-content/uploads/schedule_uploads/00001/0080Calibration-Multiple.pdf" target="_blank">UKAS Certification</a>, traceable to national standards</li>
                         <li>5 working day turnaround (less in exceptional circumstances)</li>
                         <li>Collection and delivery within a large radius</li>
                         <li>Recall system, "calibration due" reminder letters</li>
