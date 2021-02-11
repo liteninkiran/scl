@@ -203,12 +203,14 @@
                 <div class="vacancies-top">
                     <h1 class="section-title"><span>V</span>acancies</h1>
                     <p>We currently have the following immediate and permanent vacancies:</p>
-                    <ul>
-                        <li>Calibration Engineers</li>
-                        <p>Duties include calibrating a wide range of test and measuring equipment. The job can involve occasional working onsite at customer’s premises. Consideration will be given to candidates that have a background of working in an electrical calibration or test environment (preferably with RF experience) or have a suitable electronics, physics or engineering qualification. Fault finding to component level will be a distinct advantage. Training will be provided to the suitable applicant.</p>
-                        <li>Stores Administrator/Relief Driver</li>
-                        <p>Duties include general goods in/goods out functions include booking customer equipment in, arranging and liaising with sub-contractors, raising Purchase Orders, ordering spares etc. You will also be required to provide relief cover for the company delivery drivers during periods of leave or absence. Training will be provided. The suitable candidate will have a previous background of working in a similar environment, with sound computer, numeracy, and literary skills, with a clean driver’s license.</p>
-                    </ul>
+
+                    <p><strong>Calibration Engineers</strong></p>
+                    <p>Duties include calibrating a wide range of test and measuring equipment. The job can involve occasional working onsite at customer’s premises. Consideration will be given to candidates that have a background of working in an electrical calibration or test environment (preferably with RF experience) or have a suitable electronics, physics or engineering qualification. Fault finding to component level will be a distinct advantage. Training will be provided to the suitable applicant.</p>
+
+                    <p><strong>Stores Administrator/Relief Driver</strong></p>
+                    <p>Duties include general goods in/goods out functions include booking customer equipment in, arranging and liaising with sub-contractors, raising Purchase Orders, ordering spares etc. You will also be required to provide relief cover for the company delivery drivers during periods of leave or absence. Training will be provided. The suitable candidate will have a previous background of working in a similar environment, with sound computer, numeracy, and literary skills, with a clean driver’s license.</p>
+
+                    <hr>
 
                     <p>If you think you have the necessary skills in either of these roles, please forward your CV to <a href="applications@southcal.co.uk">applications@southcal.co.uk</a>.</p>
                     <p>Please Note: if you have not received a response from us within two weeks, please assume that on this occasion, you have not been shortlisted. Thank you for your interest.</p>
